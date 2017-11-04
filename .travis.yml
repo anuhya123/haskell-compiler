@@ -8,4 +8,4 @@ matrix:
 
 script:
   - cargo build --verbose --all
-  - cargo test Test.rs
+  - cargo test add.hs
